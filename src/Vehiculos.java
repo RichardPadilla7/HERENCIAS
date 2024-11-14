@@ -130,7 +130,7 @@ public class Vehiculos {
         motocicleta.Imprimir();
         camion.Imprimir();
 
-
         // DEBER DE UN JUGADOR DONDE DEBE SER INGRESADO SI ES DELANTERO O DEFENSA Y IMPRIMIR LOS DATOS CON SCANNER
+
     }
 }
